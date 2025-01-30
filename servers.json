@@ -63,6 +63,10 @@
     {
       "name": "Peik Tailscale",
       "address": "http://debian-docker.fold-goblin.ts.net:6969"
+    },
+    {
+      "name": "Peik Tailscale-ip",
+      "address": "http://10.0.0.17:6969"
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
